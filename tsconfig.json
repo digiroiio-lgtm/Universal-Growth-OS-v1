@@ -20,6 +20,6 @@
       "@agents/*": ["growth-os/agents/*"]
     }
   },
-  "include": ["growth-os/**/*"],
+  "include": ["growth-os/**/*", "api/**/*"],
   "exclude": ["node_modules", "dist"]
 }
