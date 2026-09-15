@@ -1,6 +1,5 @@
 {
-  "framework": null,
-  "buildCommand": null,
+  "buildCommand": "",
   "rewrites": [
     { "source": "/", "destination": "/api/status" }
   ]
